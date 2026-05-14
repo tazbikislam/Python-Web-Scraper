@@ -56,7 +56,7 @@ Enter any website URL when prompted. The scraper will:
 
 ## License
 
-This project is licensed under the MIT License [LICENSE](https://github.com/tazbikislam/Python-Web-Scraper/main/LICENSE) <br>
+This project is licensed under the MIT License [LICENSE](https://github.com/tazbikislam/Python-Web-Scraper/blob/main/LICENSE) <br>
 **Free for personal and commercial use.**
 
 ---
